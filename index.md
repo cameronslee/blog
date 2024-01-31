@@ -1,10 +1,4 @@
 ---
-title: Welcome to my blog
+title: Chimp Life 
 ---
-
-# Foobar
-
-## Bar
-
-### Fooo
 
