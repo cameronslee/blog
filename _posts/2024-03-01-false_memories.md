@@ -1,3 +1,7 @@
+---
+title: OS Development Log 1
+date: 2024-02-27
+---
 # !(real_memories)
 
 ```
